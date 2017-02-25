@@ -1,4 +1,4 @@
-# StyleTransferPaperCollection
+# StyleTransferPaperCollection (Neural Networks-based Methods)
 
 ## 2016-10
 
