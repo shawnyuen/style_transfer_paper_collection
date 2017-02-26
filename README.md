@@ -17,6 +17,7 @@
 ### Image Style Transfer Using Convolutional Neural Networks [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 #### This paper is the CVPR version of "A Neural Algorithm of Artistic Style".
 ### Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis [[paper]](https://arvix.org/abs/1601.04589)
+### Artistic Style Transfer for videos [[paper]](https://arxiv.org/abs/1604.08610) [[code]](https://github.com/manuelruder/artistic-videos)
 
 ## 2017
 ### Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis [[paper]](https://arvix.org/abs/1701.02096)
