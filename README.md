@@ -18,6 +18,7 @@
 #### This paper is the CVPR version of "A Neural Algorithm of Artistic Style".
 ### Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis [[paper]](https://arvix.org/abs/1601.04589)
 ### Artistic Style Transfer for videos [[paper]](https://arxiv.org/abs/1604.08610) [[code]](https://github.com/manuelruder/artistic-videos)
+### Improving the Neural Algorithm of Artistic Style [[paper]](http://arxiv.org/abs/1605.04603)
 
 ## 2017
 ### Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis [[paper]](https://arvix.org/abs/1701.02096)
