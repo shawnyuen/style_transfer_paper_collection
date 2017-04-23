@@ -22,3 +22,4 @@
 
 ## 2017
 ### Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis [[paper]](https://arvix.org/abs/1701.02096)
+### Deep Photo Style Transfer [[paper]](https://arxiv.org/abs/1703.07511)
