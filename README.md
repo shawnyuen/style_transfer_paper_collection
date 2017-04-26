@@ -26,3 +26,4 @@
 ### Deep Photo Style Transfer [[paper]](https://arxiv.org/abs/1703.07511)
 ### StyleBank An Explicit Representation for Neural Image Style Transfer [[paper]](https://arxiv.org/abs/1703.09210)
 ### Multi-style Generative Network for Real-time Transfer [[paper]](https://arxiv.org/abs/1703.06953) [[code]](https://github.com/zhanghang1989/MSG-Net)
+### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper]](https://arxiv.org/abs/1703.06868)
