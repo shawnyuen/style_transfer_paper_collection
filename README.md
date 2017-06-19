@@ -28,3 +28,4 @@
 ### Multi-style Generative Network for Real-time Transfer [[paper]](https://arxiv.org/abs/1703.06953) [[code]](https://github.com/zhanghang1989/MSG-Net)
 ### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper]](https://arxiv.org/abs/1703.06868)
 ### Visual Attribute Transfer through Deep Image Analogy [[papre]](https://arxiv.org/abs/1705.01088) [[supp]](https://liaojing.github.io/html/data/analogy_supplemental.pdf)
+### Photo-realistic Facial Texture Transfer [[paper]](https://arxiv.org/abs/1706.04306)
