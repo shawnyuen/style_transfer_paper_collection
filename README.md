@@ -20,6 +20,7 @@
 ### Artistic Style Transfer for videos [[paper]](https://arxiv.org/abs/1604.08610) [[code]](https://github.com/manuelruder/artistic-videos)
 ### Improving the Neural Algorithm of Artistic Style [[paper]](http://arxiv.org/abs/1605.04603)
 ### Fast Patch-based Style Transfer of Arbitrary Style [[paper]](https://arxiv.org/abs/1612.04337)
+### Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks [[paper]](https://arxiv.org/abs/1603.01768)
 
 ## 2017
 ### Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis [[paper]](https://arvix.org/abs/1701.02096)
