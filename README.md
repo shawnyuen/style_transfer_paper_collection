@@ -31,3 +31,4 @@
 ### Visual Attribute Transfer through Deep Image Analogy [[papre]](https://arxiv.org/abs/1705.01088) [[supp]](https://liaojing.github.io/html/data/analogy_supplemental.pdf)
 ### Photo-realistic Facial Texture Transfer [[paper]](https://arxiv.org/abs/1706.04306)
 ### Diversified Texture Synthesis with Feed-forward Networks [[paper]](https://arxiv.org/abs/1703.01664)
+### Neural Color Transfer between Images [[paper]](https://arxiv.org/abs/1710.00756)
