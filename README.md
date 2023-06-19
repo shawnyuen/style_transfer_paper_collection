@@ -1,4 +1,4 @@
-# StyleTransferPaperCollection
+# style_transfer_paper_collection
 
 ## Survey or Review
 ### Neural Style Transfer - A Review IEEE TVCG 2019 [[paper]](https://ieeexplore.ieee.org/document/8732370)
